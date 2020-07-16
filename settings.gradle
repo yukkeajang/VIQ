@@ -1,0 +1,2 @@
+rootProject.name='Vessel Inspection Prepare'
+include ':app'
