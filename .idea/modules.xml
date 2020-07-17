@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Vessel Inspection Prepare.iml" filepath="$PROJECT_DIR$/Vessel Inspection Prepare.iml" group="Vessel Inspection Prepare" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vessel_Inspection_Prepare.iml" filepath="$PROJECT_DIR$/.idea/modules/Vessel_Inspection_Prepare.iml" group="Vessel_Inspection_Prepare" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Vessel Inspection Prepare/app" />
     </modules>
   </component>
